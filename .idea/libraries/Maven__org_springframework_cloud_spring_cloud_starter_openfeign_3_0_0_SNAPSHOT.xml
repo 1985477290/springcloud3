@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.cloud:spring-cloud-starter-openfeign:3.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://E:/xu/apache-maven-3.3.9/repo/org/springframework/cloud/spring-cloud-starter-openfeign/3.0.0-SNAPSHOT/spring-cloud-starter-openfeign-3.0.0-20201117.234424-426.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/xu/apache-maven-3.3.9/repo/org/springframework/cloud/spring-cloud-starter-openfeign/3.0.0-SNAPSHOT/spring-cloud-starter-openfeign-3.0.0-20201117.234424-426-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/xu/apache-maven-3.3.9/repo/org/springframework/cloud/spring-cloud-starter-openfeign/3.0.0-SNAPSHOT/spring-cloud-starter-openfeign-3.0.0-20201117.234424-426-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
